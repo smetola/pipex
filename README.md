@@ -1,7 +1,3 @@
-<h1 align="center">
-  <strong>🚧 EN DESARROLLO 🚧</strong>
-</h1>
-
 # pipex
 
 **pipex** es un proyecto centrado en explorar dos conceptos fundamentales de UNIX: las redirecciones y los pipes. Este proyecto te prepara para abordar temas más avanzados de UNIX en proyectos futuros.
